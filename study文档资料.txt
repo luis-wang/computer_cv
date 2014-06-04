@@ -1,0 +1,48 @@
+0.这个说明文档非常好，分析了每个重要功能的应用范围
+http://www.hangar.org/wikis/lab/doku.php?id=start:puredata_opencv
+0.人脸识别与分析，过程非常好
+https://github.com/kylemcdonald/AppropriatingNewTechnologies/wiki/Week-2
+0.Ultra Rapid Object Detection非常快的检测物体
+http://www.codeproject.com/Articles/27125/Ultra-Rapid-Object-Detection-in-Computer-Vision-Ap
+
+
+1.python教程：
+https://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_tutorials.html
+
+
+2.openCV官网：
+http://opencv.org/
+
+
+3.matplotlib学习：
+http://matplotlib.org/api/pyplot_api.html
+
+4.基于灰度图像的阴影检测算法 [百度的文库]
+http://wenku.baidu.com/view/aad0fa0279563c1ec5da7176.html
+
+5.Matching Shapes 形状匹配
+在本项目的docs目录:belongie-iccv01.pdf
+
+6.数字验证码识别技术初探
+http://wenku.baidu.com/view/0701fad5b14e852458fb57d0.html
+
+
+7.在PHOTOSHOP中查看照片的真实大小
+http://photo.withqiuliang.com/techniques/pslrtips_005_print_size.htm
+http://iask.sina.com.cn/b/468351.html?sudaref=www.google.com.hk&retcode=0
+
+8.牛津大学公开的研究文档
+http://www.robots.ox.ac.uk/~vgg/rg/
+
+9.很好的博客，程明明
+http://www.cvchina.info/2011/02/24/global-contrast-based-salient-region-detection/
+他的论文，找物体 ：http://mmcheng.net/SalObj/
+
+
+9.去掉手绘纸中的所有横格子
+http://tpgit.github.io/UnOfficialLeptDocs/leptonica/line-removal.html
+
+10.还有一个库叫做ctypes-opencv，也可以用来做opencv
+http://ctypes-opencv.googlecode.com/svn/trunk
+
+
